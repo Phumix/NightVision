@@ -1,0 +1,9 @@
+name: NightVision
+version: 1.0
+author: Phumix
+main: me.phumix.nightvision.NightVision
+description: Give yourself nightvision.
+commands:
+    nv:
+        usage: /<command>
+        description: Give yourself nightvision.
